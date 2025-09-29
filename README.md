@@ -26,9 +26,11 @@ Highway Guard is a social initiative aimed at tackling the persistent problem of
 - Authorities struggle with the absence of real-time monitoring and actionable evidence against offenders.  
 - अधिकाऱ्यांकडे तत्काळ पुरावे आणि नियंत्रण नसल्यामुळे गुन्हेगारांविरुद्ध कारवाई करणे कठीण होते.  
 
-![Sanitation Workers Challenge 1](assets/sam1.png)  
-![Sanitation Workers Challenge 2](assets/sam2.png)  
-![Sanitation Workers Challenge 3](assets/sam3.png)  
+<div align="center">
+  <img src="assets/sam1.png" alt="Sanitation Workers Challenge 1" width="300" style="margin: 10px;">
+  <img src="assets/sam2.png" alt="Sanitation Workers Challenge 2" width="300" style="margin: 10px;">
+  <img src="assets/sam3.png" alt="Sanitation Workers Challenge 3" width="300" style="margin: 10px;">
+</div>  
 
 
 
@@ -76,8 +78,10 @@ This initiative works to:
 - **National Contribution** → Supports the Clean India Mission.  
 - **राष्ट्रीय योगदान** → स्वच्छ भारत अभियानाला मदत.  
 
-![Social Impact 1](assets/impact1.png)  
-![Social Impact 2](assets/impact2.jpg)  
+<div align="center">
+  <img src="assets/impact1.png" alt="Social Impact 1" width="400" style="margin: 10px;">
+  <img src="assets/impact2.jpg" alt="Social Impact 2" width="400" style="margin: 10px;">
+</div>  
 
 
 ---
